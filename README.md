@@ -72,8 +72,11 @@ For any inquiries or support, please contact:
 - **infinityclub**
   - Email: infinityclub0001@gmail.com
 - **idea by :**
-  - zekhnine Bachira is a second-year computer science student.
-  - Email: bachira.zekhnine@univ-bba.dz   
+  - alaa belhadj: louab546@gmail.com
+  - ammar abadou: ammarabadou3@gmail.com
+  - Ayoub Yallaoui: ayoub.yallaoui04@gmail.com
+  - Abdeldjalil Diaf: jalil4edu@gmail.com
+  - Bila Taguia: bilaltaguia@gmail.com
   
 Thank you for being a part of the Infinity Blood community and for your commitment to saving lives. Together, we make a difference!
 
