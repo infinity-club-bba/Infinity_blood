@@ -67,7 +67,7 @@ We express our gratitude to all the blood donors, recipients, and contributors w
 For any inquiries or support, please contact:
 
 - **Embarki Omar**
-  - Email: embarki.omar@infinityclub.edu
+  - Email: omar.embarki@univ-bba.dz
   - LinkedIn: [Embarki Omar](https://www.linkedin.com/in/omar-embarki-10651a22a/)
   
 Thank you for being a part of the Infinity Blood community and for your commitment to saving lives. Together, we make a difference!
