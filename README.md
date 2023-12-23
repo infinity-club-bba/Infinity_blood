@@ -70,7 +70,10 @@ For any inquiries or support, please contact:
   - Email: omar.embarki@univ-bba.dz
   - LinkedIn: [Embarki Omar](https://www.linkedin.com/in/omar-embarki-10651a22a/)
 - **infinityclub**
-  - Email: infinityclub0001@gmail.com    
+  - Email: infinityclub0001@gmail.com
+- **idea by :**
+  -zekhnine Bachira is a second-year computer science student.
+  - Email: bachira.zekhnine@univ-bba.dz   
   
 Thank you for being a part of the Infinity Blood community and for your commitment to saving lives. Together, we make a difference!
 
