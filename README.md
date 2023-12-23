@@ -7,7 +7,7 @@ Welcome to **Infinity Blood**, a dedicated platform designed to streamline and p
 2. [Features](#features)
 3. [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
+    - [XAMPP Installation](#xampp-installation)
 4. [Usage](#usage)
 5. [Contribution](#contribution)
 6. [Acknowledgments](#acknowledgments)
@@ -33,16 +33,20 @@ Before you begin, ensure you have met the following requirements:
 - A modern web browser (e.g., Chrome, Firefox, Safari)
 - Internet connection
 
-### Installation
+### XAMPP Installation
 
-Infinity Blood is a web-based platform, and therefore, no installation is required. Simply visit our website [www.infinityblood.com](http://www.infinityblood.com) to get started.
+Infinity Blood requires a local server for development. We recommend using XAMPP, a free and open-source cross-platform web server solution stack package.
+
+1. Download XAMPP from [https://www.apachefriends.org/index.html](https://www.apachefriends.org/index.html).
+2. Follow the installation instructions for your operating system.
+
 
 ## Usage
 
 1. **User Registration**: Users are required to create an account to access the full range of features.
 2. **Donor or Recipient Profile Creation**: Specify whether you are a blood donor or recipient and provide essential details for accurate matching.
-3. **Search and Match**: Donors can search for donation requests, while recipients can search for available donors based on their blood type and location.
-4. **Request and Donate**: Recipients can send donation requests, and donors can respond to requests, fostering a community of support.
+
+3. **Request and Donate**: Recipients can send donation requests, and donors can respond to requests, fostering a community of support.
 
 ## Contribution
 
@@ -64,6 +68,8 @@ For any inquiries or support, please contact:
 
 - **Embarki Omar**
   - Email: embarki.omar@infinityclub.edu
-  - LinkedIn: [Embarki Omar](https://www.linkedin.com/in/embarkiomar/)
+  - LinkedIn: [Embarki Omar](https://www.linkedin.com/in/omar-embarki-10651a22a/)
   
 Thank you for being a part of the Infinity Blood community and for your commitment to saving lives. Together, we make a difference!
+
+
