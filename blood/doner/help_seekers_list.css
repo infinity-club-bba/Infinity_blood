@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Fjalla One', sans-serif;
+    height: 100%;
+    background-color: #E3E3E3;
+}
+
+.main-header {
+    padding: 20px 0;
+    background-color: #FF2523;
+    color: #fff;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main-section {
+    padding: 20px 0;
+}
+
+.help-seeker-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.help-seeker-card h3 {
+    color: #FF2523;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.help-seeker-card p {
+    margin-bottom: 8px;
+}
+
+.help-seeker-card button {
+    background-color: #FF2523;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.help-seeker-card button:hover {
+    background-color: #a62221;
+}
+
+
+/* Add responsive styles if needed */
+@media only screen and (max-width: 600px) {
+    .main-header h1 {
+        font-size: 24px;
+    }
+
+    .help-seeker-card {
+        padding: 15px;
+    }
+
+    .help-seeker-card h3 {
+        font-size: 18px;
+    }
+
+    .help-seeker-card p {
+        font-size: 14px;
+    }
+
+    .help-seeker-card button {
+        font-size: 14px;
+    }
+}

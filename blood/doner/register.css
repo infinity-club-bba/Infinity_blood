@@ -1,0 +1,108 @@
+/* register.css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Fjalla One', sans-serif;
+    height: 100%;
+    background-color: #E3E3E3;
+    background: url(bg.jpg) no-repeat;
+    background-size: cover;
+}
+
+.main-header {
+    padding: 40px 0;
+}
+
+.main-header h1 {
+    color: #FF2523;
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.container {
+    width: 90%;
+    max-width: 1366px;
+    margin: auto;
+}
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    font-weight: 600;
+}
+.grid-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.column {
+    width: 100%;
+}
+
+form {
+    max-width: 700px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #424242;
+    font-weight: 600;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="number"], /* Fix typo here */
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+}
+
+
+input[type="submit"] {
+    background-color: #FF2523;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+input[type="submit"]:hover {
+    background-color: #a62221;
+}
+
+/* Add responsive styles if needed */
+@media only screen and (max-width: 600px) {
+    h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    form {
+        padding: 0 20px;
+    }
+}

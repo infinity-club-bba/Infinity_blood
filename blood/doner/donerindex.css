@@ -1,0 +1,66 @@
+/* Style for the donor dashboard page */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #E3E3E3;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #FF2523;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+section {
+    max-width: 400px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h2 {
+    color: #FF2523;
+}
+
+div {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    background-color: #FF2523;
+    color: #fff;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+button:hover {
+    background-color: #a62221;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #777;
+}
+
+a.logout-link {
+    display: block;
+    margin-top: 20px;
+    color: #FF2523;
+    text-decoration: none;
+}
