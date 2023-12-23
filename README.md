@@ -1,6 +1,6 @@
 # Infinity Blood
 
-Welcome to **Infinity Blood**,  where technology meets compassion to create a seamless platform for blood donors and recipients. Our app is designed to bridge the gap between those willing to donate blood and individuals urgently in need.. Developed by Embarki Omar, a skilled code-craft developer affiliated with the Infinity Club in the MI (Management and Informatics) department at Mohamed El Bachir El Ibrahimi University.
+Welcome to **Infinity Blood**,  where technology meets compassion to create a seamless platform for blood donors and recipients. Our app is designed to bridge the gap between those willing to donate blood and individuals urgently in need.. Developed by Embarki Omar, a skilled developer affiliated with the Infinity Club in the MI (Mathematics and Informatics) department at Mohamed El Bachir El Ibrahimi University.
 
 ## Table of Contents
 1. [Introduction](#introduction)
