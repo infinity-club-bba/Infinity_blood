@@ -71,12 +71,7 @@ For any inquiries or support, please contact:
   - LinkedIn: [Embarki Omar](https://www.linkedin.com/in/omar-embarki-10651a22a/)
 - **infinityclub**
   - Email: infinityclub0001@gmail.com
-- **idea by :**
-  - alaa belhadj: louab546@gmail.com
-  - ammar abadou: ammarabadou3@gmail.com
-  - Ayoub Yallaoui: ayoub.yallaoui04@gmail.com
-  - Abdeldjalil Diaf: jalil4edu@gmail.com
-  - Bila Taguia: bilaltaguia@gmail.com
+
   
 Thank you for being a part of the Infinity Blood community and for your commitment to saving lives. Together, we make a difference!
 
