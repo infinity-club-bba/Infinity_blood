@@ -72,7 +72,7 @@ For any inquiries or support, please contact:
 - **infinityclub**
   - Email: infinityclub0001@gmail.com
 - **idea by :**
-  -zekhnine Bachira is a second-year computer science student.
+  - zekhnine Bachira is a second-year computer science student.
   - Email: bachira.zekhnine@univ-bba.dz   
   
 Thank you for being a part of the Infinity Blood community and for your commitment to saving lives. Together, we make a difference!
